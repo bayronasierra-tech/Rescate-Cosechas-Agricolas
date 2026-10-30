@@ -34,9 +34,6 @@ No incluirá pagos electrónicos, transporte, almacenamiento ni gestión logíst
 ## Organización del repositorio
 
 - `docs/`: documentación y backlog del proyecto.
-- `frontend/`: archivos de la interfaz del sistema.
-- `backend/`: lógica y servicios del sistema.
-- `database/`: archivos relacionados con la base de datos.
 
 ## Estado del proyecto
 
